@@ -1,3 +1,6 @@
+/**
+ * Module dependencies.
+ */
 var express = require('express');
 var logger = require('morgan');
 var routes = require('./routes');
